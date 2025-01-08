@@ -3,17 +3,6 @@
 This repository provides a comprehensive guide to basic Linux commands, categorized by their functionalities. 
 It is designed for beginners to learn and for experienced users to refresh their knowledge.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [File Management Commands](#file-management-commands)
-3. [Process Management Commands](#process-management-commands)
-4. [Text Processing Commands](#text-processing-commands)
-5. [Networking Commands](#networking-commands)
-6. [System Information Commands](#system-information-commands)
-7. [Contributing](#contributing)
-8. [License](#license)
-
 ## Introduction
 
 Linux commands are essential for interacting with the system, automating tasks, and managing resources. This repository categorizes and explains various basic Linux commands with examples to help you get started or enhance your skills.
