@@ -1,0 +1,78 @@
+# Linux Basic Commands
+
+This repository provides a comprehensive guide to basic Linux commands, categorized by their functionalities. 
+It is designed for beginners to learn and for experienced users to refresh their knowledge.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [File Management Commands](#file-management-commands)
+3. [Process Management Commands](#process-management-commands)
+4. [Text Processing Commands](#text-processing-commands)
+5. [Networking Commands](#networking-commands)
+6. [System Information Commands](#system-information-commands)
+7. [Contributing](#contributing)
+8. [License](#license)
+
+## Introduction
+
+Linux commands are essential for interacting with the system, automating tasks, and managing resources. This repository categorizes and explains various basic Linux commands with examples to help you get started or enhance your skills.
+
+## File Management Commands
+
+File management commands are used to create, move, delete, and manage files and directories.
+
+- `ls`: List directory contents.
+- `cp`: Copy files and directories.
+- `mv`: Move or rename files and directories.
+- `rm`: Remove files and directories.
+- `touch`: Create an empty file.
+
+
+## Process Management Commands
+
+Process management commands help in monitoring and managing system processes.
+
+- `ps`: Display active processes.
+- `top`: Show real-time system processes.
+- `kill`: Terminate a process by PID.
+- `bg`: Resume a job in the background.
+- `fg`: Bring a job to the foreground.
+
+
+## Text Processing Commands
+
+These commands are used for searching, manipulating, and processing text files.
+
+- `cat`: Concatenate and display file content.
+- `grep`: Search for patterns in files.
+- `awk`: Pattern scanning and processing language.
+- `sed`: Stream editor for filtering and transforming text.
+- `sort`: Sort text files.
+
+
+## Networking Commands
+
+Networking commands help in network configuration and troubleshooting.
+
+- `ping`: Check network connectivity.
+- `ifconfig`: Configure network interfaces.
+- `wget`: Download files from the internet.
+- `curl`: Transfer data from or to a server.
+- `netstat`: Network statistics.
+
+
+## System Information Commands
+
+These commands provide information about the system hardware and software.
+
+- `uname`: Display system information.
+- `df`: Report disk space usage.
+- `du`: Show directory space usage.
+- `uptime`: Show system uptime.
+- `free`: Display memory usage.
+  
+
+## Contributing
+
+Contributions are welcome! 
